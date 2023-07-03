@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehiane&label=Profile%20views&color=0e75b6&style=flat" alt="ehiane" /> </p>
 
-<p align="left"> <a href="https://twitter.com/the_ehiane" target="blank"><img src="https://img.shields.io/twitter/follow/the_ehiane?logo=twitter&style=for-the-badge" alt="the_ehiane" /></a> </p>
+
 
 - 🌱 I’m currently learning **Advanced Data Structures and algorithms**
 
-- 🤝 I’m looking for help with **Mastering Javascript**
+- 🤝 I’m looking for help with **Learning a JavaScript Framework**
 
 - 👨‍💻 All of my projects are available at [http://www.ehiane.info/](http://www.ehiane.info/)
 
-- 💬 Ask me about **Web development, Python, C and C++ related concepts.**
+- 💬 Ask me about **Web development, Python, C/C++ and OOP concepts.**
 
 - 📫 How to reach me **ehis.oigiagbe@gmail.com**
 
