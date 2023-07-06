@@ -6,6 +6,8 @@
 
 - 📄*Resume*:  [click here --> 📄](https://github.com/Ehiane/Ehiane/files/11968811/tentative_resume_for_Ehiane_Oigiagbe.pdf)
 
+- 📫 How to reach me **ehis.oigiagbe@gmail.com**
+
 
 - 🌱 I’m currently learning **Advanced Data Structures and algorithms**
 
@@ -15,7 +17,6 @@
 
 - 💬 Ask me about **Web development, Python, C/C++ and OOP concepts.**
 
-- 📫 How to reach me **ehis.oigiagbe@gmail.com**
 
 - ⚡ Fun fact **I'm an Afrobeats Dancer!**
 
