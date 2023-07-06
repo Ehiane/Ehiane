@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehiane&label=Profile%20views&color=0e75b6&style=flat" alt="ehiane" /> </p>
 
+- 📄Resume:  [📄](https://github.com/Ehiane/Ehiane/files/11968811/tentative_resume_for_Ehiane_Oigiagbe.pdf)
 
 
 - 🌱 I’m currently learning **Advanced Data Structures and algorithms**
@@ -16,9 +17,7 @@
 
 - 📫 How to reach me **ehis.oigiagbe@gmail.com**
 
-- 📄 Know about my experiences [http://www.ehiane.info/](http://www.ehiane.info/)
-
-- ⚡ Fun fact **I'm a freelance video editor!**
+- ⚡ Fun fact **I'm an Afrobeats Dancer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
