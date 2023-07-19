@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [ehiane.info](http://www.ehiane.info/)
 
-- 💬 Ask me about **Web development, Python, C/C++ and OOP concepts.**
+- 💬 Ask me about **Web development, Data Science, Python, C/C++ and OOP concepts.**
 
 
 - ⚡ Fun fact **I'm an Afrobeats Dancer!**
