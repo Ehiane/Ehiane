@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Learning a JavaScript Framework**
 
-- 👨‍💻 All of my projects are available at [http://www.ehiane.info/](http://www.ehiane.info/)
+- 👨‍💻 All of my projects are available at [ehiane.info](http://www.ehiane.info/)
 
 - 💬 Ask me about **Web development, Python, C/C++ and OOP concepts.**
 
