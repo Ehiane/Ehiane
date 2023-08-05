@@ -6,8 +6,6 @@
 
 - 📄*Resume*:  [(click here --> 📄)](https://github.com/Ehiane/Ehiane/files/12266130/current_resume.pdf)
 
-)
-
 - 📫 How to reach me **ehis.oigiagbe@gmail.com**
 
 
