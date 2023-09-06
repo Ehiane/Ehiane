@@ -9,9 +9,9 @@
 - 📫 How to reach me **ehis.oigiagbe@gmail.com**
 
 
-- 🌱 I’m currently learning **Advanced Data Structures and algorithms**
+- 🌱 I’m currently learning **Software Engineering Principles & Functional Programming**
 
-- 🤝 I’m looking for help with **Learning a JavaScript Framework**
+- 🤝 I’m looking for help with **Learning React and Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [ehiane.info](http://www.ehiane.info/)
 
