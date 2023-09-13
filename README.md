@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Software Engineering Principles & Functional Programming**
 
-- 🤝 I’m looking for help with **Learning React and Backend Technologies**
+- 🤝 I’m looking for help with **Mastering JavaScript,React and Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [ehiane.info](http://www.ehiane.info/)
 
