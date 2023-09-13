@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Mastering JavaScript,React and Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [ehiane.info](http://www.ehiane.info/)
+- 👨‍💻 All of my projects are available at [ehiane.info](http://www.ehiane.info/) & [📃my Repositories](https://github.com/Ehiane?tab=repositories)
 
 - 💬 Ask me about **Web development, Data Science, Python, C/C++ and OOP concepts.**
 
