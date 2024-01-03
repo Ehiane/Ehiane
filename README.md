@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehiane&label=Profile%20views&color=0e75b6&style=flat" alt="ehiane" /> </p>
 
-- 📄*Resume*:  [(click here --> 📄)](https://github.com/Ehiane/Ehiane/files/12598436/tentative_resume_for_Ehiane_Oigiagbe.pdf)
+- 📄*Resume*:  [(click here --> 📄)](https://github.com/Ehiane/Ehiane/files/13822065/current_resume.pdf)
 
 - 📫 How to reach me **ehis.oigiagbe@gmail.com**
+
 
 
 - 🌱 I’m currently learning **Software Engineering Principles & Functional Programming**
