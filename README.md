@@ -20,7 +20,7 @@
 - 💬 Ask me about **Web development, Data Science, Python, C/C++ and OOP concepts.**
 
 
-- ⚡ Fun fact **I'm an Afrobeats Dancer!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
