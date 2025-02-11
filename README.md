@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Software Engineering Principles, Core Web Development Principles, AI & ML, Software Testing (Self-learning)**
 
-- 🤝 I’m looking for help with **Cloud-Based Technologies like AWS, AZURE, AND GCP**
+- 🤝 I’m looking for help with learning **Cloud-Based Technologies like AWS, AZURE, and GCP**
 
 - 👨‍💻 All of my projects are available at [ehiane.info](http://www.ehiane.info/) and [📃my Repositories](https://github.com/Ehiane?tab=repositories)
 
