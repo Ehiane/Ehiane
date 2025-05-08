@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehiane&label=Profile%20views&color=0e75b6&style=flat" alt="ehiane" /> </p>
 
-- 📄*Resume*:  [(click here --> 📄)](https://github.com/user-attachments/files/20075774/EhianeOigiagbe.-.Generic.-.CV.-.github.pdf)
+- 📄*Resume*:  [(click here --> 📄)](https://drive.google.com/file/d/1yJ80Xf2Urs9Zd7SAn30reC6s_-j0oodQ/view?usp=sharing)
 
 - 📫 How to reach me **ehis.oigiagbe@gmail.com**
 
