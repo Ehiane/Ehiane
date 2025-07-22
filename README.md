@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with learning **Cloud-Based Technologies like AWS, AZURE, and GCP**
 
-- 👨‍💻 All of my projects are available at [ehiane.info](https://www.ehiane.com/) and [📃my Repositories](https://github.com/Ehiane?tab=repositories)
+- 👨‍💻 All of my projects are available at [ehiane.com](https://www.ehiane.com/) and [📃my Repositories](https://github.com/Ehiane?tab=repositories)
 
 - 💬 Ask me about **Web development, Data Science, Python, C/C++ and OOP concepts.**
 
