@@ -5,18 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehiane&label=Profile%20views&color=0e75b6&style=flat" alt="ehiane" /> </p>
 
-- 📄*Resume*: [(click here --> 📄)](https://drive.google.com/file/d/1-hXZjwHX8o7gvHqC6M355P309p7tKYdt/view?usp=sharing)
-- 📄*CV*:  [(click here --> 📄)](https://drive.google.com/file/d/1SLBh8RoWicl0gdkfpDLSvZGUxP4gRWoV/view?usp=sharing)
 
-- 📫 How to reach me **ehis.oigiagbe@gmail.com**
+- 📫 How to reach me [linkedin/ehiane-oigiagbe/](https://www.linkedin.com/in/ehiane-oigiagbe/)
 
 
 
 - 🌱 I’m currently learning **Software Engineering Principles, Core Web Development Principles, AI & ML, Software Testing (Self-learning)**
 
-- 🤝 I’m looking for help with learning **Cloud-Based Technologies like AWS, AZURE, and GCP**
-
-- 👨‍💻 All of my projects are available at [ehiane.com](https://www.ehiane.com/) and [📃my Repositories](https://github.com/Ehiane?tab=repositories)
+- 👨‍💻 All of my personal projects are available at [ehiane.com](https://www.ehiane.com/) and [📃my Repositories](https://github.com/Ehiane?tab=repositories)
 
 - 💬 Ask me about **Web development, Data Science, Python, C/C++ and OOP concepts.**
 
